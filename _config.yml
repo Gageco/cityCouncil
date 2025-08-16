@@ -57,7 +57,7 @@ author:
       # url: "https://facebook.com/"
     - label: "Donate"
       icon: "fab fa-fw fa-usd"
-      url:"https://secure.fundhero.com/gc4gc"
+      url: "https://secure.fundhero.com/gc4gc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gageforgardencity"
