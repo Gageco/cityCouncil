@@ -5,7 +5,7 @@ main:
   - title: "Donate"
     url: https://secure.fundhero.com/gc4gc
   - title: "contact"
-    url: mailto:gage@coprivnicar.com
+    url: "mailto:gage@coprivnicar.com"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

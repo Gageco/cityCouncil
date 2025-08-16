@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "GC4GC"
 title_separator          : "-"
-subtitle                 : "GC4GC"
+# subtitle                 : "GC4GC"
 name                     : "Gage Coprivnicar"
 description              : "Gage Coprivnicar for Garden City"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
