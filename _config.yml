@@ -35,7 +35,7 @@ copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  
+
 # Social Sharing
 twitter:
   username               :
@@ -265,7 +265,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: center
     values:
       layout: single
       author_profile: true
