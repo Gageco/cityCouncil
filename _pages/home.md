@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: splash
 permalink: /
-hidden: false
+hidden: true
 author_profile: true
 header:
   overlay_color: "#5e616c"
