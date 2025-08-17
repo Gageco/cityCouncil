@@ -1,12 +1,17 @@
 ---
 permalink: /about/
+layout: single
 title: "About Me"
 excerpt: "About Gage Coprivnicar"
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.7"
+  overlay_image: /assets/images/header.jpg
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
     alt: "splash layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
