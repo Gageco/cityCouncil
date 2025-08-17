@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/header.jpg
   #actions:
   #  - label: "Download"

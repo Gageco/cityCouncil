@@ -6,12 +6,8 @@ excerpt: "About Gage Coprivnicar"
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/header.jpg
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
 ---
 
 Gage Coprivnicar grew up in Idaho starting at the age of 3, when his father, in the Airforce was relocated to fly the C-130 Hercules. He went to college out of state for the first two years at Colorado School of Mines, pursing his degree in Electrical Engineering. After two years, Gage decided to take a few years off of school and pursued other interests such as woodworking and gardening. He went back to school in 2021 on the tail end of COVID-19 and finished his degree in Electrical Engineering in 2023 at Boise State, and is working on his Masters in the same field.
