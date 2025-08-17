@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/header.jpg
   #actions:
   #  - label: "Download"
@@ -14,7 +14,7 @@ header:
 excerpt: "Gage Coprivnicar For Garden City Council"
 intro:
   - excerpt: 'Gage Coprivnicar lives and works as an engineer in Garden City and loves the area.'
-feature_row3:
+feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "About"
@@ -22,12 +22,12 @@ feature_row3:
     url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Positions"
     excerpt: 'Positions'
-    url: "#test-link"
+    url: "/positions"
     btn_label: "Read More"
     btn_class: "btn--primary"
 #feature_row3:
