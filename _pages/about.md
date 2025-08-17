@@ -6,7 +6,7 @@ excerpt: "About Gage Coprivnicar"
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
