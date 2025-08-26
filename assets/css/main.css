@@ -5,6 +5,10 @@
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	colors:
+	c54536 - redish
+	197278 - bluish
 */
 
 html, body, div, span, applet, object,
@@ -2700,7 +2704,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #c54536;
+		background: #197278;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2808,7 +2812,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #c54536 !important;
+							color: #197278 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3076,7 +3080,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #c54536;
+						background: #197278;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
