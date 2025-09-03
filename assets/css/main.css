@@ -2630,7 +2630,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		.button.primary {
 			background-color: #c54536;
-			color: #ffffff !important;
+			color: #ede1d3 !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2711,8 +2711,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #197278;
-		color: #d2f2e9;
+		background: #c54536;
+		color: #197278;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
