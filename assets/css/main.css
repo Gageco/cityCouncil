@@ -139,7 +139,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #1d1e18;
-		font-weight: 700;
+		font-weight: 500;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
 		font-family: "Caprasimo";
@@ -2732,11 +2732,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #c54536;
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #c54536;
 		}
 
 			#header a:hover {
