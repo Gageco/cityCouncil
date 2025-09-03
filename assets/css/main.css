@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #ede1d3;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -142,6 +142,7 @@ input, select, textarea {
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
+		font-family: "Caprasimo";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
