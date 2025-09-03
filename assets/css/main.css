@@ -2851,9 +2851,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #ede1d3;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #1d1e18;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
