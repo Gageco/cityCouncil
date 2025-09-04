@@ -1784,7 +1784,7 @@ input, select, textarea {
 
 	header h3 + p {
 		font-size: 1.1em;
-		margin-top: -0.35em;
+		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
 
@@ -1805,7 +1805,7 @@ input, select, textarea {
 			color: #777;
 			font-size: 3em;
 			font-weight: 700;
-			margin-top: -0.75em;
+			margin-top: -0.25em;
 		}
 
 /* Form */
