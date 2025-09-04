@@ -2630,7 +2630,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #c54536;
+			background-color: #ede1d3;
 			color: #ede1d3 !important;
 		}
 
