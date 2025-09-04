@@ -2536,9 +2536,9 @@ input, select, textarea {
 		color: #fffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 700;
-		height: 2.75em;
-		line-height: 2.75em;
+		font-weight: 1000;
+		height: 4.0em;
+		line-height: 4.0em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
