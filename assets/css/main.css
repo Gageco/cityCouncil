@@ -3144,6 +3144,11 @@ input, select, textarea {
 				font-size: 1.8em;
 			}
 
+			h5 {
+				color: #ede1d3;
+				font-size: 1.8em;
+			}
+
 		/* Image */
 
 			.image.left {
