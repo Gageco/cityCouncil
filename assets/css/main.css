@@ -102,7 +102,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #888;
+		color: #1d1e18;
 		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1803,7 +1803,7 @@ input, select, textarea {
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 1.75em;
+			font-size: 3em;
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
