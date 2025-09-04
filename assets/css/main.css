@@ -2531,7 +2531,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #197278;
-		border-radius: 5px;
+		border-radius: 15px;
 		border: 0;
 		color: #fffff !important;
 		cursor: pointer;
