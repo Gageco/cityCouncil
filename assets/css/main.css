@@ -3152,11 +3152,11 @@ input, select, textarea {
 		/* Image */
 
 			.image.left {
-				margin: 0 0em 0em 0;
+				margin: 0 1.5em 1em 0;
 			}
 
 			.image.right {
-				margin: 0 0 0em 0em;
+				margin: 0 0 1em 1.5em;
 			}
 
 			.image.main {
@@ -3183,7 +3183,7 @@ input, select, textarea {
 				display: block;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
-				width: 100%;
+				width: 20%;
 			}
 
 			.features article .inner {
