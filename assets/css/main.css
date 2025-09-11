@@ -3153,10 +3153,12 @@ input, select, textarea {
 
 			.image.left {
 				margin: 0 1.5em 1em 0;
+				width: 50%;
 			}
 
 			.image.right {
 				margin: 0 0 1em 1.5em;
+				width: 50%;
 			}
 
 			.image.main {
