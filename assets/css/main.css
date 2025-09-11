@@ -140,7 +140,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #c54536;
 		font-weight: 500;
-		line-height: 1em;
+		line-height: .75em;
 		margin: 0 0 0.5625em 0;
 		font-family: "Caprasimo";
 	}
